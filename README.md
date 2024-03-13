@@ -13,5 +13,5 @@
   - [버전 형식 ing ](https://github.com/lsh96900410/studyProject) [24.01 ~ ]
 ####  팀 프로젝트
  - [GoryeoHotel](https://github.com/lsh96900410/TeamProject)  [ 23.07.14. ~ 23.07.25 (12D) ]
- - [My Protein](https://github.com/lsh96900410/TeamProject)      [ 23.08.18. ~ 23.08.25. (8D)]
- - [Danaga](https://github.com/Roco-LEE/IWILL_TEAM_PROJECT/tree/master/03.Avengers)     [ 23.10.12. ~ 23.11.15. (35D)]
+ - [My Protein](https://github.com/lsh96900410/TeamProject)      [ 23.08.18. ~ 23.08.25. (8D) ]
+ - [Danaga](https://github.com/Roco-LEE/IWILL_TEAM_PROJECT/tree/master/03.Avengers)     [ 23.10.12. ~ 23.11.15. (35D) ]

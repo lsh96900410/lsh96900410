@@ -1,16 +1,17 @@
-### Hi there 👋
+# 안녕하세요 이승현입니다 👋
 
-<!--
-**lsh96900410/lsh96900410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+####  로직의 이해 및 설계 과정을 시각적으로 표현하여 효율을 높일 수 있습니다.  
+####  아이디어와 생각을 검증한다.라는 목표를 가지고 요구사항에 알맞은 프로젝트와 로직을 설계하고 테스트하는 과정에서 열정이 커집니다.  
+####  요구사항과 합리적 비용을 고려하며 상황에 알맞은 기술을 현명하게 사용하고  재사용성 높은 코드를 작성할 수 있는 개발자가 목표입니다.
+  
+## 🏫 Education
+####  ITWILL JAVA DEVELOPER COURSE (23.05. ~ 23.11.)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💾 Project
+#### ✔ 개인 프로젝트
+  - [버전 형식 ing ](https://github.com/lsh96900410/studyProject) [24.01 ~ ]
+#### ✔ 팀 프로젝트
+ - [GoryeoHotel](https://github.com/lsh96900410/TeamProject)  [ 23.07.14. ~ 23.07.25 (12D) ]
+ - [My Protein](https://github.com/lsh96900410/TeamProject)      [ 23.08.18. ~ 23.08.25. (8일)]
+ - [Danaga](https://github.com/Roco-LEE/IWILL_TEAM_PROJECT/tree/master/03.Avengers)     [ 23.10.12. ~ 23.11.15. (35일)]

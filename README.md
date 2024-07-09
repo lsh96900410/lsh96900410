@@ -1,25 +1,27 @@
-<a href="https://skydog.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-FF9800?style=flat-square&logo=Storyblok&logoColor=white"/></a>
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Hi%20👋&desc=I'm%20SeungHyun&fontSize=60&rotate=14&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling)
 
-# 안녕하세요 이승현입니다 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=500&size=80&letterSpacing=1px&pause=1000&color=23FF2C&center=true&vCenter=true&random=false&width=2000&height=100&lines=Welcome%2C+My+Github)](https://git.io/typing-svg)
+<div align="center">
+ <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flsh96900410&count_bg=%23181819&title_bg=%2323FF2C&icon=&icon_color=%23E2E5E1&title=hits&edge_flat=false"/></a>
+</div>
 
-####  로직의 이해 및 설계 과정을 시각적으로 표현하여 효율을 높일 수 있습니다.  
-####  아이디어와 생각을 검증한다.라는 목표를 가지고 요구사항에 알맞은 프로젝트와 로직을 설계하고 테스트하는 과정에서 열정이 커집니다.  
-####  요구사항과 합리적 비용을 고려하며 상황에 알맞은 기술을 현명하게 사용하고  재사용성 높은 로직과 코드를 작성할 수 있는 개발자로 성장하는 것이 목표입니다.
+<br><br><br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=500&size=80&letterSpacing=1px&pause=1000&color=23FF2C&center=true&vCenter=true&random=false&width=2000&height=100&lines=About%2C+Me)](https://git.io/typing-svg)
+<br>
+<div align="center">
+<a href="https://skydog.tistory.com/"><img src="https://img.shields.io/badge/blog-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://skydog.tistory.com/"></a>
+</div>
+<br><br><br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=500&size=80&letterSpacing=1px&pause=1000&color=23FF2C&center=true&vCenter=true&random=false&width=2000&height=100&lines=My+Record)](https://git.io/typing-svg)
+<div align="center">
+<Br>
+  
+![](https://github-readme-stats.vercel.app/api?username=lsh96900410&show_icons=true&theme=merko)
+[![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lsh96900410&exclude_repo=java-study&show_icons=true&hide_border=true&title_color=dark&icon_color=004386&layout=compact&theme=merko)](https://github.com/lsh96900410)
+
+</div>
 
 
-## 🏫 Education
-####  ITWILL JAVA DEVELOPER COURSE (23.05. ~ 23.11.)
 
-
-## 💾 Project
-####  개인 프로젝트
-  - [버전 형식 ing ](https://github.com/lsh96900410/studyProject) [24.01 ~ ]
-####  팀 프로젝트
- - [GoryeoHotel](https://github.com/lsh96900410/TeamProject)  [ 23.07.14. ~ 23.07.25 (12D) ]
- - [My Protein](https://github.com/lsh96900410/TeamProject)      [ 23.08.18. ~ 23.08.25. (8D) ]
- - [Danaga](https://github.com/lsh96900410/Danaga)     [ 23.10.12. ~ 23.11.15. (35D) ]
-
-
-
-![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=lsh96900410&show_icons=true)
-[![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lsh96900410&exclude_repo=java-study&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/lsh96900410)

@@ -1,4 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Hi%20👋&desc=I'm%20SeungHyun&fontSize=60&rotate=14&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling)
+<div align="center">
+ 
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&weight=1500&fontColor=23FF2C&text=Hi,%20I'm%20SeungHyun&fontAlign=50&fontAlignY=40&color=008080 )
+
+</div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=500&size=100&letterSpacing=1px&pause=1000&color=23FF2C&center=true&vCenter=true&repeat=false&random=false&width=2000&height=100&lines=Welcome%2C+My+Github)](https://git.io/typing-svg)
 <div align="center">

@@ -20,7 +20,7 @@
 <Br>
   
 ![](https://github-readme-stats.vercel.app/api?username=lsh96900410&show_icons=true&theme=merko)
-[![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lsh96900410&exclude_repo=java-study&show_icons=true&hide_border=true&title_color=dark&icon_color=004386&layout=compact&theme=merko)](https://github.com/lsh96900410)
+[![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lsh96900410&exclude_repo=java-study&show_icons=true&hide_border=false&title_color=dark&icon_color=004386&layout=compact&theme=merko)](https://github.com/lsh96900410)
 
 </div>
 

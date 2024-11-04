@@ -11,13 +11,14 @@
 
 <br><br><br>
 
+<!--
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=500&size=100&letterSpacing=1px&pause=1000&color=23FF2C&center=true&vCenter=true&repeat=false&random=false&width=2000&height=100&lines=About+Me)](https://git.io/typing-svg)
 <br>
 <div align="center">
-<a href="https://skydog.tistory.com/"><img src="https://img.shields.io/badge/blog-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://skydog.tistory.com/"></a>
+ <a href="https://skydog.tistory.com/"><img src="https://img.shields.io/badge/blog-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://skydog.tistory.com/"></a>
 </div>
 <br><br><br>
-
+-->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=500&size=100&letterSpacing=1px&pause=1000&color=23FF2C&center=true&vCenter=true&repeat=false&random=false&width=2000&height=100&lines=My+Record)](https://git.io/typing-svg)
 <div align="center">
